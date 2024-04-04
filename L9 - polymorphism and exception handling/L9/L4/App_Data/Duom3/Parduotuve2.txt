@@ -1,0 +1,7 @@
+Parduotuvė2
+Senoji g. 101
++37060048756
+Fridge; Fridge1; FridgeX; A+; Balta; 699; 500; Pastatomas; turi šaldiklį; 200; 50; 60;
+Oven; Oven1; OvenE; A; Juoda; 599; 200; 14;
+Fridge; Siemens; Fridge7W; A++; Balta; 1099; 480; Pastatomas; neturi šaldiklio; 190; 40; 50;
+Kettle; Siemens; KettleP; A; Juoda; kaina; 100; 7;

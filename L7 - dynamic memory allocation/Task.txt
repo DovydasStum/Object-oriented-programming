@@ -1,0 +1,12 @@
+Gamykloje kiekvieną dieną registruojama informacija apie darbininkų pagamintas
+detales. Darbininkas gali gaminti per dieną skirtingo tipo detales. Suraskite daugiausiai uždirbusio
+darbininko pavardę, suskaičiuokite, kiek dienų jis dirbo, kiek iš viso detalių pagamino ir už kokią
+sumą. Sudarykite tik vieno pavadinimo detales gaminusių darbininkų sąrašą, pagamintų detalių skaičių
+ir sumą. Surikiuokite šį sąrašą pagal pavardes ir vardus.
+Duomenys:
+• Tekstiniame faile U10a.txt surašyta: data (metai, mėnuo, diena), darbininko pavardė ir vardas,
+detalės kodas, pagamintų vienetų skaičius.
+• Tekstiniame faile U10b.txt surašyta: detalės kodas, detalės pavadinimas, įkainis.
+Iš duomenų rinkinio faile U10a.txt sudarykite naują duomenų rinkinį pagal nurodytą požymį
+(pagamintų vienetų skaičius > S, įkainis < K, įvedami klaviatūra). Sąrašas turi būti surikiuotas pagal
+pavardes ir vardus abėcėlės tvarka.

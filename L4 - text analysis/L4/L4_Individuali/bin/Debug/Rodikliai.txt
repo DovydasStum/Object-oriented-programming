@@ -1,0 +1,24 @@
+Rikiuoti ilgiausi žodžiai, esantys abejuose failuose
+*P1 – pasikartojimų sk. pirmame faile, P2 – antrame.
+--------------------------------------------------
+| Nr. | Žodis            | Ilgis | P1    | P2    |
+--------------------------------------------------
+|   1 | universitetas    |    13 |     1 |     1 |
+|   2 | mokytojas        |     9 |     1 |     1 |
+|   3 | mokykla          |     7 |     1 |     1 |
+|   4 | galbūt           |     6 |     1 |     1 |
+|   5 | arbata           |     6 |     1 |     1 |
+|   6 | dabar            |     5 |     2 |     2 |
+|   7 | vakar            |     5 |     2 |     2 |
+|   8 | rytoj            |     5 |     1 |     1 |
+|   9 | namai            |     5 |     1 |     1 |
+|  10 | namas            |     5 |     1 |     1 |
+--------------------------------------------------
+Rikiuoti ilgiausi žodžiai, esantys tik pirmame faile
+*P1 – pasikartojimų sk. pirmame faile, P2 – antrame.
+--------------------------------------------------
+| Nr. | Žodis            | Ilgis | P1    | P2    |
+--------------------------------------------------
+|   1 | Dviratis         |     8 |     1 |     0 |
+|   2 | poryt            |     5 |     1 |     0 |
+--------------------------------------------------

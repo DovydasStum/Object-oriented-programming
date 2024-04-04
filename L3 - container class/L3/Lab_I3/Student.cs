@@ -1,0 +1,95 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Lab_I3
+{
+    class Student
+    {
+        public string Surname { get; set; }
+        public string Name { get; set; }
+        public DateTime Date { get; set; }
+        public int ID { get; set; }
+        public int Course { get; set; }
+        public string Phone { get; set; }
+        public string Mark { get; set; }
+
+        public Student(string surname, string name, DateTime date,
+                        int id, int course, string phone, string mark)
+        {
+            this.Surname = surname;
+            this.Name = name;
+            this.Date = date;
+            this.ID = id;
+            this.Course = course;
+            this.Phone = phone;
+            this.Mark = mark;
+        }
+
+        /// <summary>
+        /// Overrides data to string
+        /// </summary>
+        /// <returns>Line</returns>
+        public override string ToString()
+        {
+            string line;
+            line = string.Format("| {0,-11} | {1,-12} | {2,11} | {3,5} |" +
+                                 " {4,6} | {5,11} | {6,-8} |", Surname, Name,
+                                 Date.ToShortDateString(), ID, Course, Phone, Mark);
+            return line;
+        }
+
+        /// <summary>
+        /// Compares two student's properties
+        /// </summary>
+        /// <param name="student">Student</param>
+        /// <returns>ID of student</returns>
+        public override bool Equals(object student)
+        {
+            return this.ID == ((Student)student).ID;
+        }
+
+        /// <summary>
+        /// Gets hash code of student
+        /// </summary>
+        /// <returns>Hash code</returns>
+        public override int GetHashCode()
+        {
+            return this.ID.GetHashCode();
+        }
+
+        /// <summary>
+        /// Checks if student's birth date is the same as the oldest's student's
+        /// </summary>
+        /// <param name="StudentsContainer">Container of students</param>
+        /// <param name="OldestDate">Birth date of the oldest student</param>
+        /// <returns>True if date is equal to the oldest's student's date</returns>
+        public static bool operator ==(Student StudentsContainer, DateTime OldestDate)
+        {
+            return StudentsContainer.Date == OldestDate;
+        }
+        public static bool operator !=(Student StudentsContainer, DateTime OldestDate)
+        {
+            return StudentsContainer.Date != OldestDate;
+        }
+
+        /// <summary>
+        /// Compares students by course and ID
+        /// </summary>
+        /// <param name="other">Other student</param>
+        /// <returns>Comparison</returns>
+        public int CompareTo(Student other)
+        {
+            if (this.Course == other.Course)
+            {
+                return this.ID.CompareTo(other.ID);
+            }
+            else
+            {
+                return this.Course.CompareTo(other.Course);
+            }
+        }
+    }
+}

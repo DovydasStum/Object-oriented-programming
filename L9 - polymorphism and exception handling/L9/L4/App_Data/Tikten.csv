@@ -1,0 +1,18 @@
+﻿Gamintojas;Modelis;Energijos kl.;Spalva;Kaina;Talpa;Montavimo tipas;Šaldiklis;Aukštis;Plotis;Gylis;Galia;Programos;Tūris
+ Fridge1; FridgeX; A+; Balta;699;500; Pastatomas; turi šaldiklį;200;50;60
+ Oven1; OvenE; A; Juoda;599;;;;;;;200;14;
+ Siemens; OvenB; A; Ruda;60;;;;;;;250;2;
+ Siemens; Fridge7W; A++; Balta;1099;480; Pastatomas; neturi šaldiklio;190;40;50
+ Siemens; KettleP; A; Juoda;399;;;;;;;100;;7
+ Kettle2; Kettle2R; A+; Balta;40;;;;;;;200;;5
+ Siemens; FridgeG; A++; Balta;1199;380; Pastatomas; neturi šaldiklio;200;40;50
+ Fridge12; FridgeXBZ; A+; Rausva;499;100; Pastatomas; turi šaldiklį;170;40;50
+ Fridge12; FridgeXBRR; A++; Juoda;899;200; Pastatomas; turi šaldiklį;180;40;50
+ Fridge15; FridgeC; A; Balta;299;90; Pastatomas; turi šaldiklį;160;40;60
+ Fridge18; FridgeH87; A+; Balta;650;85; Pastatomas; neturi šaldiklio;170;40;50
+ Fridge5; FridgeX; A+++; Balta;799;600; Pastatomas; turi šaldiklį;190;60;60
+ Oven6; OvenA; A; Juoda;399;;;;;;;200;13;
+ Kettle10; KettleZ; A; Balta;70;;;;;;;250;;3
+ Siemens; FridgeA; A++; Balta;1099;480; Pastatomas; neturi šaldiklio;190;40;50
+ Siemens; FridgeL; A+; Rausva;2000;80; Pastatomas; turi šaldiklį;210;70;50
+ Fridge199; Fridge24c; A+; Juoda;499;70; Pastatomas; turi šaldiklį;170;40;50

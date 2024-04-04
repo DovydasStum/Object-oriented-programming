@@ -1,0 +1,7 @@
+Dviejuose tekstiniuose failuose Knyga1.txt ir Knyga2.txt duotas tekstas sudarytas iš žodžių, atskirtų
+skyrikliais. Skyriklių aibė žinoma ir abejuose failuose yra ta pati.
+Raskite ir spausdinkite faile Rodikliai.txt:
+• ilgiausių žodžių, surikiuotų ilgio mažėjimo tvarka, kurie yra abejuose failuose, sąrašą (ne
+daugiau nei 10 žodžių) ir jų pasikartojimo skaičių kiekviename iš failų;
+• ilgiausių žodžių, surikiuotų ilgio mažėjimo tvarka, kurie yra tik faile Knyga1.txt, bet nėra faile
+Knyga2.txt, sąrašą (ne daugiau nei 10 žodžių) ir jų pasikartojimo skaičių.

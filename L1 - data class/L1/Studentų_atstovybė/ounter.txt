@@ -1,0 +1,54 @@
+/// <summary>
+        /// Finds the course with the most students and quantity of them
+        /// </summary>
+        /// <param name="People">list of all people</param>
+        public static void Counter (List<Person> People, int max, int courseIndex)
+        {
+            int course1 = 0;
+            int course2 = 0;
+            int course3 = 0;
+            int course4 = 0;
+           // max = 0;
+          //  courseIndex = 0;
+            foreach (Person person in People)
+            {
+                if (person.Course.Equals(1))
+                {
+                    course1++;
+                }
+                if (person.Course.Equals(2))
+                {
+                    course2++;
+                }
+                if (person.Course.Equals(3))
+                {
+                    course3++;
+                }
+                if (person.Course.Equals(4))
+                {
+                    course4++;
+                }
+            }
+
+            if (course1 > course2 && course1 > course3 && course1 > course4)
+            {
+                max = course1;
+                courseIndex = 1;
+            }
+            if (course2 > course1 && course2 > course3 && course2 > course4)
+            {
+                max = course2;
+                courseIndex = 2;
+            }
+            if (course3 > course1 && course3 > course2 && course3 > course4)
+            {
+                max = course3;
+                courseIndex = 3;
+            }
+            else
+            {
+                max = course4;
+                courseIndex = 4;
+            }
+            return;
+        }

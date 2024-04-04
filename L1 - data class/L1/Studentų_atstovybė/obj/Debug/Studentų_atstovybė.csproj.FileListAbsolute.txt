@@ -1,0 +1,7 @@
+D:\Studijos\Objektinis programavimas\L1 (studentų atstovybė)\Studentų_atstovybė\Studentų_atstovybė\bin\Debug\Studentų_atstovybė.exe.config
+D:\Studijos\Objektinis programavimas\L1 (studentų atstovybė)\Studentų_atstovybė\Studentų_atstovybė\bin\Debug\Studentų_atstovybė.exe
+D:\Studijos\Objektinis programavimas\L1 (studentų atstovybė)\Studentų_atstovybė\Studentų_atstovybė\bin\Debug\Studentų_atstovybė.pdb
+D:\Studijos\Objektinis programavimas\L1 (studentų atstovybė)\Studentų_atstovybė\Studentų_atstovybė\obj\Debug\Studentų_atstovybė.csproj.CoreCompileInputs.cache
+D:\Studijos\Objektinis programavimas\L1 (studentų atstovybė)\Studentų_atstovybė\Studentų_atstovybė\obj\Debug\Studentų_atstovybė.exe
+D:\Studijos\Objektinis programavimas\L1 (studentų atstovybė)\Studentų_atstovybė\Studentų_atstovybė\obj\Debug\Studentų_atstovybė.pdb
+D:\Studijos\Objektinis programavimas\L1 (studentų atstovybė)\Studentų_atstovybė\Studentų_atstovybė\obj\Debug\Studentų_atstovybė.csprojAssemblyReference.cache

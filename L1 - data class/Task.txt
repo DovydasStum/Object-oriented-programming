@@ -1,0 +1,7 @@
+Kiekvienais metais studentų atstovybė atsinaujina – vieni studentai ją palieka, jų vietą užima nauji. Duomenų faile pateikta informacija apie studentus: pavardė, vardas, gimimo data, studento pažymėjimo numeris, kursas, telefono numeris, požymis „fuksas“ (šįmet į atstovybę įstojęs studentas).
+•	Raskite vyriausią studentų atstovybės narį, ekrane atspausdinkite jo vardą, pavardę ir amžių.
+Jei yra keli, spausdinkite visus.
+•	Raskite, kurio kurso studentų atstovybėje daugiausia, ekrane atspausdinkite kurso numerį
+bei to kurso studentų kiekį. Jei yra keli, spausdinkite visus.
+•	Sudarykite visų antro ir aukštesnių kursų studentų sąrašą, į failą „Senbuviai.csv“ įrašykite
+visus jų duomenis.

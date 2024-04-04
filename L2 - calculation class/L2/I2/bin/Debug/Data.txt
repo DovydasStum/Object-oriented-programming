@@ -1,0 +1,172 @@
+﻿Dabartiniai studentų atstovybės nariai: 
+Duomenų metai: 2021
+--------------------------------------------------------------------------------------
+| Pavardė     | Vardas       | Gimimo data | ID    | Kursas | Tel. nr.    | Požymis  | 
+--------------------------------------------------------------------------------------
+| Jonaitis    | Jonas        |  2002-05-05 |   100 |      1 |   861111111 | fuksas   |
+| Petraitis   | Petras       |  2001-03-04 |   115 |      2 |   861231231 | senbuvis |
+| Paulaitis   | Paulius      |  2000-05-14 |    65 |      3 |   865555554 | senbuvis |
+| Povilaitis  | Povilas      |  1997-04-07 |   554 |      4 |   865478952 | senbuvis |
+| Simaitis    | Simas        |  2002-06-24 |    88 |      1 |   867478541 | fuksas   |
+| Kazaitis    | Kazys        |  1999-11-15 |    16 |      4 |   862121213 | senbuvis |
+--------------------------------------------------------------------------------------
+Praėjusių metų studentų atstovybės nariai: 
+Duomenų metai: 2020
+--------------------------------------------------------------------------------------
+| Pavardė     | Vardas       | Gimimo data | ID    | Kursas | Tel. nr.    | Požymis  | 
+--------------------------------------------------------------------------------------
+| Martinaitis | Martynas     |  1997-04-08 |   117 |      2 |   860214457 | senbuvis |
+| Petraitis   | Petras       |  2001-03-04 |   115 |      1 |   861231231 | fuksas   |
+| Lauraitis   | Laurynas     |  1997-04-07 |   555 |      4 |   869999947 | senbuvis |
+| Kazaitis    | Kazys        |  1999-11-15 |    16 |      3 |   862121213 | senbuvis |
+--------------------------------------------------------------------------------------
+Dabartiniai studentų atstovybės nariai: 
+Duomenų metai: 2021
+--------------------------------------------------------------------------------------
+| Pavardė     | Vardas       | Gimimo data | ID    | Kursas | Tel. nr.    | Požymis  | 
+--------------------------------------------------------------------------------------
+| Jonaitis    | Jonas        |  2002-05-05 |   100 |      1 |   861111111 | fuksas   |
+| Petraitis   | Petras       |  2001-03-04 |   115 |      2 |   861231231 | senbuvis |
+| Paulaitis   | Paulius      |  2000-05-14 |    65 |      3 |   865555554 | senbuvis |
+| Povilaitis  | Povilas      |  1997-04-07 |   554 |      4 |   865478952 | senbuvis |
+| Simaitis    | Simas        |  2002-06-24 |    88 |      1 |   867478541 | fuksas   |
+| Kazaitis    | Kazys        |  1999-11-15 |    16 |      4 |   862121213 | senbuvis |
+--------------------------------------------------------------------------------------
+Praėjusių metų studentų atstovybės nariai: 
+Duomenų metai: 2020
+--------------------------------------------------------------------------------------
+| Pavardė     | Vardas       | Gimimo data | ID    | Kursas | Tel. nr.    | Požymis  | 
+--------------------------------------------------------------------------------------
+| Martinaitis | Martynas     |  1997-04-08 |   117 |      2 |   860214457 | senbuvis |
+| Petraitis   | Petras       |  2001-03-04 |   115 |      1 |   861231231 | fuksas   |
+| Lauraitis   | Laurynas     |  1997-04-07 |   555 |      4 |   869999947 | senbuvis |
+| Kazaitis    | Kazys        |  1999-11-15 |    16 |      3 |   862121213 | senbuvis |
+--------------------------------------------------------------------------------------
+Dabartiniai studentų atstovybės nariai: 
+Duomenų metai: 2021
+--------------------------------------------------------------------------------------
+| Pavardė     | Vardas       | Gimimo data | ID    | Kursas | Tel. nr.    | Požymis  | 
+--------------------------------------------------------------------------------------
+| Jonaitis    | Jonas        |  2002-05-05 |   100 |      1 |   861111111 | fuksas   |
+| Petraitis   | Petras       |  2001-03-04 |   115 |      2 |   861231231 | senbuvis |
+| Paulaitis   | Paulius      |  2000-05-14 |    65 |      3 |   865555554 | senbuvis |
+| Povilaitis  | Povilas      |  1997-04-07 |   554 |      4 |   865478952 | senbuvis |
+| Simaitis    | Simas        |  2002-06-24 |    88 |      1 |   867478541 | fuksas   |
+| Kazaitis    | Kazys        |  1999-11-15 |    16 |      4 |   862121213 | senbuvis |
+--------------------------------------------------------------------------------------
+Praėjusių metų studentų atstovybės nariai: 
+Duomenų metai: 2020
+--------------------------------------------------------------------------------------
+| Pavardė     | Vardas       | Gimimo data | ID    | Kursas | Tel. nr.    | Požymis  | 
+--------------------------------------------------------------------------------------
+| Martinaitis | Martynas     |  1997-04-08 |   117 |      2 |   860214457 | senbuvis |
+| Petraitis   | Petras       |  2001-03-04 |   115 |      1 |   861231231 | fuksas   |
+| Lauraitis   | Laurynas     |  1997-04-07 |   555 |      4 |   869999947 | senbuvis |
+| Kazaitis    | Kazys        |  1999-11-15 |    16 |      3 |   862121213 | senbuvis |
+--------------------------------------------------------------------------------------
+Dabartiniai studentų atstovybės nariai: 
+Duomenų metai: 2021
+--------------------------------------------------------------------------------------
+| Pavardė     | Vardas       | Gimimo data | ID    | Kursas | Tel. nr.    | Požymis  | 
+--------------------------------------------------------------------------------------
+| Jonaitis    | Jonas        |  2002-05-05 |   100 |      1 |   861111111 | fuksas   |
+| Petraitis   | Petras       |  2001-03-04 |   115 |      2 |   861231231 | senbuvis |
+| Paulaitis   | Paulius      |  2000-05-14 |    65 |      3 |   865555554 | senbuvis |
+| Povilaitis  | Povilas      |  1997-04-07 |   554 |      4 |   865478952 | senbuvis |
+| Simaitis    | Simas        |  2002-06-24 |    88 |      1 |   867478541 | fuksas   |
+| Kazaitis    | Kazys        |  1999-11-15 |    16 |      4 |   862121213 | senbuvis |
+--------------------------------------------------------------------------------------
+Praėjusių metų studentų atstovybės nariai: 
+Duomenų metai: 2020
+--------------------------------------------------------------------------------------
+| Pavardė     | Vardas       | Gimimo data | ID    | Kursas | Tel. nr.    | Požymis  | 
+--------------------------------------------------------------------------------------
+| Martinaitis | Martynas     |  1997-04-08 |   117 |      2 |   860214457 | senbuvis |
+| Petraitis   | Petras       |  2001-03-04 |   115 |      1 |   861231231 | fuksas   |
+| Lauraitis   | Laurynas     |  1997-04-07 |   555 |      4 |   869999947 | senbuvis |
+| Kazaitis    | Kazys        |  1999-11-15 |    16 |      3 |   862121213 | senbuvis |
+--------------------------------------------------------------------------------------
+Dabartiniai studentų atstovybės nariai: 
+Duomenų metai: 2021
+--------------------------------------------------------------------------------------
+| Pavardė     | Vardas       | Gimimo data | ID    | Kursas | Tel. nr.    | Požymis  | 
+--------------------------------------------------------------------------------------
+| Jonaitis    | Jonas        |  2002-05-05 |   100 |      1 |   861111111 | fuksas   |
+| Petraitis   | Petras       |  2001-03-04 |   115 |      2 |   861231231 | senbuvis |
+| Paulaitis   | Paulius      |  2000-05-14 |    65 |      3 |   865555554 | senbuvis |
+| Povilaitis  | Povilas      |  1997-04-07 |   554 |      4 |   865478952 | senbuvis |
+| Simaitis    | Simas        |  2002-06-24 |    88 |      1 |   867478541 | fuksas   |
+| Kazaitis    | Kazys        |  1999-11-15 |    16 |      4 |   862121213 | senbuvis |
+--------------------------------------------------------------------------------------
+Praėjusių metų studentų atstovybės nariai: 
+Duomenų metai: 2020
+--------------------------------------------------------------------------------------
+| Pavardė     | Vardas       | Gimimo data | ID    | Kursas | Tel. nr.    | Požymis  | 
+--------------------------------------------------------------------------------------
+| Martinaitis | Martynas     |  1997-04-08 |   117 |      2 |   860214457 | senbuvis |
+| Petraitis   | Petras       |  2001-03-04 |   115 |      1 |   861231231 | fuksas   |
+| Lauraitis   | Laurynas     |  1997-04-07 |   555 |      4 |   869999947 | senbuvis |
+| Kazaitis    | Kazys        |  1999-11-15 |    16 |      3 |   862121213 | senbuvis |
+--------------------------------------------------------------------------------------
+Dabartiniai studentų atstovybės nariai: 
+Duomenų metai: 2021
+--------------------------------------------------------------------------------------
+| Pavardė     | Vardas       | Gimimo data | ID    | Kursas | Tel. nr.    | Požymis  | 
+--------------------------------------------------------------------------------------
+| Jonaitis    | Jonas        |  2002-05-05 |   100 |      1 |   861111111 | fuksas   |
+| Petraitis   | Petras       |  2001-03-04 |   115 |      2 |   861231231 | senbuvis |
+| Paulaitis   | Paulius      |  2000-05-14 |    65 |      3 |   865555554 | senbuvis |
+| Povilaitis  | Povilas      |  1997-04-07 |   554 |      4 |   865478952 | senbuvis |
+| Simaitis    | Simas        |  2002-06-24 |    88 |      1 |   867478541 | fuksas   |
+| Kazaitis    | Kazys        |  1999-11-15 |    16 |      4 |   862121213 | senbuvis |
+--------------------------------------------------------------------------------------
+Praėjusių metų studentų atstovybės nariai: 
+Duomenų metai: 2020
+--------------------------------------------------------------------------------------
+| Pavardė     | Vardas       | Gimimo data | ID    | Kursas | Tel. nr.    | Požymis  | 
+--------------------------------------------------------------------------------------
+| Martinaitis | Martynas     |  1997-04-08 |   117 |      2 |   860214457 | senbuvis |
+| Petraitis   | Petras       |  2001-03-04 |   115 |      1 |   861231231 | fuksas   |
+| Lauraitis   | Laurynas     |  1997-04-07 |   555 |      4 |   869999947 | senbuvis |
+| Kazaitis    | Kazys        |  1999-11-15 |    16 |      3 |   862121213 | senbuvis |
+--------------------------------------------------------------------------------------
+Dabartiniai studentų atstovybės nariai: 
+Duomenų metai: 2021
+--------------------------------------------------------------------------------------
+| Pavardė     | Vardas       | Gimimo data | ID    | Kursas | Tel. nr.    | Požymis  | 
+--------------------------------------------------------------------------------------
+| Jonaitis    | Jonas        |  2002-05-05 |   100 |      1 |   861111111 | fuksas   |
+| Paulaitis   | Paulius      |  2000-05-14 |    65 |      3 |   865555554 | senbuvis |
+| Simaitis    | Simas        |  2002-06-24 |    88 |      1 |   867478541 | fuksas   |
+| Povilaitis  | Povilas      |  1999-11-15 |   554 |      4 |   865478952 | senbuvis |
+--------------------------------------------------------------------------------------
+Praėjusių metų studentų atstovybės nariai: 
+Duomenų metai: 2020
+--------------------------------------------------------------------------------------
+| Pavardė     | Vardas       | Gimimo data | ID    | Kursas | Tel. nr.    | Požymis  | 
+--------------------------------------------------------------------------------------
+| Martinaitis | Martynas     |  1998-05-06 |   117 |      2 |   860214457 | senbuvis |
+| Petraitis   | Petras       |  2001-03-04 |   115 |      1 |   861231231 | fuksas   |
+| Lauraitis   | Laurynas     |  1997-04-07 |   555 |      4 |   869999947 | senbuvis |
+| Kazaitis    | Kazys        |  1999-11-15 |    16 |      3 |   862121213 | senbuvis |
+--------------------------------------------------------------------------------------
+Dabartiniai studentų atstovybės nariai: 
+Duomenų metai: 2021
+--------------------------------------------------------------------------------------
+| Pavardė     | Vardas       | Gimimo data | ID    | Kursas | Tel. nr.    | Požymis  | 
+--------------------------------------------------------------------------------------
+| Jonaitis    | Jonas        |  2002-05-05 |   100 |      1 |   861111111 | fuksas   |
+| Paulaitis   | Paulius      |  2000-05-14 |    65 |      3 |   865555554 | senbuvis |
+| Simaitis    | Simas        |  2002-06-24 |    88 |      1 |   867478541 | fuksas   |
+| Povilaitis  | Povilas      |  1999-11-15 |   554 |      4 |   865478952 | senbuvis |
+--------------------------------------------------------------------------------------
+Praėjusių metų studentų atstovybės nariai: 
+Duomenų metai: 2020
+--------------------------------------------------------------------------------------
+| Pavardė     | Vardas       | Gimimo data | ID    | Kursas | Tel. nr.    | Požymis  | 
+--------------------------------------------------------------------------------------
+| Martinaitis | Martynas     |  1998-05-06 |   117 |      2 |   860214457 | senbuvis |
+| Petraitis   | Petras       |  2001-03-04 |   115 |      1 |   861231231 | fuksas   |
+| Lauraitis   | Laurynas     |  1997-04-07 |   555 |      4 |   869999947 | senbuvis |
+| Kazaitis    | Kazys        |  1999-11-15 |    16 |      3 |   862121213 | senbuvis |
+--------------------------------------------------------------------------------------

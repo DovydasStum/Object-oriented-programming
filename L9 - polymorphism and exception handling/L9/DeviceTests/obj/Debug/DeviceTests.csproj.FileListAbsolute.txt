@@ -1,0 +1,17 @@
+D:\Studijos\2 semestras\Objektinis programavimas\L4_new\L4\DeviceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Studijos\2 semestras\Objektinis programavimas\L4_new\L4\DeviceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Studijos\2 semestras\Objektinis programavimas\L4_new\L4\DeviceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Studijos\2 semestras\Objektinis programavimas\L4_new\L4\DeviceTests\bin\Debug\DeviceTests.dll
+D:\Studijos\2 semestras\Objektinis programavimas\L4_new\L4\DeviceTests\bin\Debug\DeviceTests.pdb
+D:\Studijos\2 semestras\Objektinis programavimas\L4_new\L4\DeviceTests\bin\Debug\L4.dll
+D:\Studijos\2 semestras\Objektinis programavimas\L4_new\L4\DeviceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Studijos\2 semestras\Objektinis programavimas\L4_new\L4\DeviceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Studijos\2 semestras\Objektinis programavimas\L4_new\L4\DeviceTests\bin\Debug\L4.pdb
+D:\Studijos\2 semestras\Objektinis programavimas\L4_new\L4\DeviceTests\bin\Debug\L4.dll.config
+D:\Studijos\2 semestras\Objektinis programavimas\L4_new\L4\DeviceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Studijos\2 semestras\Objektinis programavimas\L4_new\L4\DeviceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Studijos\2 semestras\Objektinis programavimas\L4_new\L4\DeviceTests\obj\Debug\DeviceTests.csprojAssemblyReference.cache
+D:\Studijos\2 semestras\Objektinis programavimas\L4_new\L4\DeviceTests\obj\Debug\DeviceTests.csproj.CoreCompileInputs.cache
+D:\Studijos\2 semestras\Objektinis programavimas\L4_new\L4\DeviceTests\obj\Debug\DeviceTests.csproj.CopyComplete
+D:\Studijos\2 semestras\Objektinis programavimas\L4_new\L4\DeviceTests\obj\Debug\DeviceTests.dll
+D:\Studijos\2 semestras\Objektinis programavimas\L4_new\L4\DeviceTests\obj\Debug\DeviceTests.pdb

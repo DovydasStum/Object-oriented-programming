@@ -1,0 +1,16 @@
+Parduotuvė1
+Naujoji g. 101
++37060012251
+Fridge; Fridge1; FridgeX; A+; Balta; 699; 500; Pastatomas; turi šaldiklį; 200; 50; 60;
+Oven; Oven1; OvenE; A; Juoda; 599; 200; 14;
+Oven; Siemens; OvenB; A; Ruda; 60; 250; 2;
+Fridge; Siemens; Fridge7W; A++; Balta; 1099; 480; Pastatomas; neturi šaldiklio; 190; 40; 50;
+Kettle; Siemens; KettleP; A; Juoda; 399; 100; 7;
+Kettle; Kettle2; Kettle2R; A+; Balta; 40; 200; 5;
+Fridge; Siemens; FridgeG; A++; Balta; 1199; 380; Pastatomas; neturi šaldiklio; 200; 40; 50;
+Oven; Oven25; Oven4S; A; Juoda; 199; 70; 30;
+Kettle; Siemens; KettleA; A+; Balta; 40; 200; 5;
+Fridge; Fridge12; FridgeXBZ; A+; Rausva; 499; 100; Pastatomas; turi šaldiklį; 170; 40; 50;
+Fridge; Fridge12; FridgeXBRR; A++; Juoda; 899; 200; Pastatomas; turi šaldiklį; 180; 40; 50;
+Fridge; Fridge15; FridgeC; A; Balta; 299; 90; Pastatomas; turi šaldiklį; 160; 40; 60;
+Fridge; Fridge18; FridgeH87; A+; Balta; 650; 85; Pastatomas; neturi šaldiklio; 170; 40; 50;

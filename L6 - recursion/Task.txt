@@ -1,0 +1,9 @@
+Pavasarį sode apsigyveno kurmiai. Kiekvienas kurmis išsirausė sau atskirą urvą. Suskaičiuokite, kiek kurmių
+apsigyveno sode ir koks yra kiekvieno kurmio išrausto urvo dydis.
+Duomenys. Faile U3.txt yra pateikta sodo plokštuminė kurmių urvų schema – atvaizduota dvimačiu simbolių
+masyvu. Pirmoje failo eilutėje yra užrašytas schemos dydis: eilučių skaičius n (5 <= n <= 500) ir stulpelių
+skaičius m (5 <= n <= 500). Tolesnėse n eilučių yra užrašyta po m simbolių: 'z' (žemė) arba 'u' (urvas). Vienas
+simbolis atitinka 5 cm2 plotą. Du urvo simboliai ('u') priklauso tam pačiam urvui, jeigu jie yra greta toje
+pačioje eilutėje arba greta tame pačiame stulpelyje.
+Rezultatai. Atskirose eilutėse spausdinkite sode apsigyvenusių kurmių skaičių ir kurmių urvų dydžius (cm2)
+surikiuotus mažėjimo tvarka.

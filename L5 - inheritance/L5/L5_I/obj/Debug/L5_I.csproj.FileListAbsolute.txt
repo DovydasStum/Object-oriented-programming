@@ -1,0 +1,21 @@
+D:\Studijos\Objektinis programavimas\Lab5.Exercises\L5_I\L5_I\bin\Debug\L5_I.exe.config
+D:\Studijos\Objektinis programavimas\Lab5.Exercises\L5_I\L5_I\bin\Debug\L5_I.exe
+D:\Studijos\Objektinis programavimas\Lab5.Exercises\L5_I\L5_I\bin\Debug\L5_I.pdb
+D:\Studijos\Objektinis programavimas\Lab5.Exercises\L5_I\L5_I\obj\Debug\L5_I.csprojAssemblyReference.cache
+D:\Studijos\Objektinis programavimas\Lab5.Exercises\L5_I\L5_I\obj\Debug\L5_I.csproj.CoreCompileInputs.cache
+D:\Studijos\Objektinis programavimas\Lab5.Exercises\L5_I\L5_I\obj\Debug\L5_I.exe
+D:\Studijos\Objektinis programavimas\Lab5.Exercises\L5_I\L5_I\obj\Debug\L5_I.pdb
+C:\Users\dovstu1\Desktop\12-13\L5_I\L5_I\bin\Debug\L5_I.exe.config
+C:\Users\dovstu1\Desktop\12-13\L5_I\L5_I\bin\Debug\L5_I.exe
+C:\Users\dovstu1\Desktop\12-13\L5_I\L5_I\bin\Debug\L5_I.pdb
+C:\Users\dovstu1\Desktop\12-13\L5_I\L5_I\obj\Debug\L5_I.csproj.CoreCompileInputs.cache
+C:\Users\dovstu1\Desktop\12-13\L5_I\L5_I\obj\Debug\L5_I.exe
+C:\Users\dovstu1\Desktop\12-13\L5_I\L5_I\obj\Debug\L5_I.pdb
+C:\Users\dovstu1\Desktop\12-13\L5_I\L5_I\obj\Debug\L5_I.csprojAssemblyReference.cache
+C:\Users\User\Desktop\L5_I\L5_I\bin\Debug\L5_I.exe.config
+C:\Users\User\Desktop\L5_I\L5_I\bin\Debug\L5_I.exe
+C:\Users\User\Desktop\L5_I\L5_I\bin\Debug\L5_I.pdb
+C:\Users\User\Desktop\L5_I\L5_I\obj\Debug\L5_I.csprojAssemblyReference.cache
+C:\Users\User\Desktop\L5_I\L5_I\obj\Debug\L5_I.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\L5_I\L5_I\obj\Debug\L5_I.exe
+C:\Users\User\Desktop\L5_I\L5_I\obj\Debug\L5_I.pdb

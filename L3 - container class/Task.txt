@@ -1,0 +1,11 @@
+Turite ir vienų ankstesniųjų metų studentų atstovybės narių duomenis. Keičiasi
+duomenų formatas. Pirmoje eilutėje metai. Toliau informacija pateikta tokiu pačiu formatu kaip L1
+užduotyje.
+• Raskite vyriausią studentą, priklausiusį studentų atstovybei. Atspausdinkite ekrane visus jo
+duomenis. Jei yra keli, spausdinkite visus.
+• Ar yra tokių studentų, kurie į atstovybę atėjo pirmaisiais metais, paliko ją antraisiais metais?
+Tokių studentų sąrašą atspausdinkite ekrane.
+• Sudarykite studentų, palikusių atstovybę pirmaisiais metais, sąrašą. Visus jų duomenis įrašykite
+į failą „PalikoPirmi.csv“.
+• Sudarykite studentų, kurie priklausė atstovybei abejais metais. Visus jų duomenis įrašykite į
+failą „Seniai.csv“. Surikiuokite studentus pagal kursą ir studento pažymėjimo numerį.

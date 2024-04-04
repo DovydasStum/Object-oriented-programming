@@ -1,0 +1,105 @@
+Pradiniai duomenys:
+
+Parduotuvės pavadinimas: Parduotuvė1
+Parduotuvės adresas: Naujoji g. 101
+Parduotuvės tel. nr.: +37060012251
+Parduotuvės prekės:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Gamintojas      | Modelis         | Energijos kl. | Spalva     | Kaina | Talpa | Montavimo tipas | Šaldiklis            | Aukštis  | Plotis | Gylis | Galia | Programos  | Tūris |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  Fridge1        |  FridgeX        |  A+           |  Balta     |   699 |   500 |  Pastatomas     |  turi šaldiklį       |      200 |     50 |    60 |       |            |       |
+|  Oven1          |  OvenE          |  A            |  Juoda     |   599 |       |                 |                      |          |        |       |   200 |         14 |       |
+|  Siemens        |  OvenB          |  A            |  Ruda      |    60 |       |                 |                      |          |        |       |   250 |          2 |       |
+|  Siemens        |  Fridge7W       |  A++          |  Balta     |  1099 |   480 |  Pastatomas     |  neturi šaldiklio    |      190 |     40 |    50 |       |            |       |
+|  Siemens        |  KettleP        |  A            |  Juoda     |   399 |       |                 |                      |          |        |       |   100 |            |     7 |
+|  Kettle2        |  Kettle2R       |  A+           |  Balta     |    40 |       |                 |                      |          |        |       |   200 |            |     5 |
+|  Siemens        |  FridgeG        |  A++          |  Balta     |  1199 |   380 |  Pastatomas     |  neturi šaldiklio    |      200 |     40 |    50 |       |            |       |
+|  Oven25         |  Oven4S         |  A            |  Juoda     |   199 |       |                 |                      |          |        |       |    70 |         30 |       |
+|  Siemens        |  KettleA        |  A+           |  Balta     |    40 |       |                 |                      |          |        |       |   200 |            |     5 |
+|  Fridge12       |  FridgeXBZ      |  A+           |  Rausva    |   499 |   100 |  Pastatomas     |  turi šaldiklį       |      170 |     40 |    50 |       |            |       |
+|  Fridge12       |  FridgeXBRR     |  A++          |  Juoda     |   899 |   200 |  Pastatomas     |  turi šaldiklį       |      180 |     40 |    50 |       |            |       |
+|  Fridge15       |  FridgeC        |  A            |  Balta     |   299 |    90 |  Pastatomas     |  turi šaldiklį       |      160 |     40 |    60 |       |            |       |
+|  Fridge18       |  FridgeH87      |  A+           |  Balta     |   650 |    85 |  Pastatomas     |  neturi šaldiklio    |      170 |     40 |    50 |       |            |       |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Parduotuvės pavadinimas: Parduotuvė2
+Parduotuvės adresas: Senoji g. 19
+Parduotuvės tel. nr.: +37064758733
+Parduotuvės prekės:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Gamintojas      | Modelis         | Energijos kl. | Spalva     | Kaina | Talpa | Montavimo tipas | Šaldiklis            | Aukštis  | Plotis | Gylis | Galia | Programos  | Tūris |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  Fridge5        |  FridgeX        |  A+++         |  Balta     |   799 |   600 |  Pastatomas     |  turi šaldiklį       |      190 |     60 |    60 |       |            |       |
+|  Oven6          |  OvenA          |  A            |  Juoda     |   399 |       |                 |                      |          |        |       |   200 |         13 |       |
+|  Kettle10       |  KettleZ        |  A            |  Balta     |    70 |       |                 |                      |          |        |       |   250 |            |     3 |
+|  Siemens        |  FridgeA        |  A++          |  Balta     |  1099 |   480 |  Pastatomas     |  neturi šaldiklio    |      190 |     40 |    50 |       |            |       |
+|  Oven25         |  Oven4S         |  A            |  Juoda     |   199 |       |                 |                      |          |        |       |    70 |         30 |       |
+|  Siemens        |  KettleA        |  A+           |  Balta     |    40 |       |                 |                      |          |        |       |   200 |            |     5 |
+|  Siemens        |  FridgeL        |  A+           |  Rausva    |  2000 |    80 |  Pastatomas     |  turi šaldiklį       |      210 |     70 |    50 |       |            |       |
+|  Fridge199      |  Fridge24c      |  A+           |  Juoda     |   499 |    70 |  Pastatomas     |  turi šaldiklį       |      170 |     40 |    50 |       |            |       |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Skirtingi Siemens prietaisai:
+
+Parduotuvės Parduotuvė1 skirtingų Siemens įrenginių kiekis:
+Šaldytuvai: 2
+Mikrobangų krosnelės: 1
+Virduliai: 2
+
+Parduotuvės Parduotuvė2 skirtingų Siemens įrenginių kiekis:
+Šaldytuvai: 2
+Mikrobangų krosnelės: 0
+Virduliai: 1
+
+Pigiausių šaldytuvų (bent 80L talpos) sąrašas:
+-----------------------------------------------------
+| Gamintojas      | Modelis         | Talpa | Kaina |
+-----------------------------------------------------
+|  Fridge15       |  FridgeC        |    90 |   299 |
+|  Fridge12       |  FridgeXBZ      |   100 |   499 |
+|  Fridge18       |  FridgeH87      |    85 |   650 |
+|  Fridge1        |  FridgeX        |   500 |   699 |
+|  Fridge5        |  FridgeX        |   600 |   799 |
+|  Fridge12       |  FridgeXBRR     |   200 |   899 |
+|  Siemens        |  Fridge7W       |   480 |  1099 |
+|  Siemens        |  FridgeA        |   480 |  1099 |
+|  Siemens        |  FridgeG        |   380 |  1199 |
+|  Siemens        |  FridgeL        |    80 |  2000 |
+-----------------------------------------------------
+
+Įrenginių, kuriuos galima įsigyti tik vienoje parduotuvėje, sąrašas:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Gamintojas      | Modelis         | Energijos kl. | Spalva     | Kaina | Talpa | Montavimo tipas | Šaldiklis            | Aukštis  | Plotis | Gylis | Galia | Programos  | Tūris |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  Fridge1        |  FridgeX        |  A+           |  Balta     |   699 |   500 |  Pastatomas     |  turi šaldiklį       |      200 |     50 |    60 |       |            |       |
+|  Oven1          |  OvenE          |  A            |  Juoda     |   599 |       |                 |                      |          |        |       |   200 |         14 |       |
+|  Siemens        |  OvenB          |  A            |  Ruda      |    60 |       |                 |                      |          |        |       |   250 |          2 |       |
+|  Siemens        |  Fridge7W       |  A++          |  Balta     |  1099 |   480 |  Pastatomas     |  neturi šaldiklio    |      190 |     40 |    50 |       |            |       |
+|  Siemens        |  KettleP        |  A            |  Juoda     |   399 |       |                 |                      |          |        |       |   100 |            |     7 |
+|  Kettle2        |  Kettle2R       |  A+           |  Balta     |    40 |       |                 |                      |          |        |       |   200 |            |     5 |
+|  Siemens        |  FridgeG        |  A++          |  Balta     |  1199 |   380 |  Pastatomas     |  neturi šaldiklio    |      200 |     40 |    50 |       |            |       |
+|  Fridge12       |  FridgeXBZ      |  A+           |  Rausva    |   499 |   100 |  Pastatomas     |  turi šaldiklį       |      170 |     40 |    50 |       |            |       |
+|  Fridge12       |  FridgeXBRR     |  A++          |  Juoda     |   899 |   200 |  Pastatomas     |  turi šaldiklį       |      180 |     40 |    50 |       |            |       |
+|  Fridge15       |  FridgeC        |  A            |  Balta     |   299 |    90 |  Pastatomas     |  turi šaldiklį       |      160 |     40 |    60 |       |            |       |
+|  Fridge18       |  FridgeH87      |  A+           |  Balta     |   650 |    85 |  Pastatomas     |  neturi šaldiklio    |      170 |     40 |    50 |       |            |       |
+|  Fridge5        |  FridgeX        |  A+++         |  Balta     |   799 |   600 |  Pastatomas     |  turi šaldiklį       |      190 |     60 |    60 |       |            |       |
+|  Oven6          |  OvenA          |  A            |  Juoda     |   399 |       |                 |                      |          |        |       |   200 |         13 |       |
+|  Kettle10       |  KettleZ        |  A            |  Balta     |    70 |       |                 |                      |          |        |       |   250 |            |     3 |
+|  Siemens        |  FridgeA        |  A++          |  Balta     |  1099 |   480 |  Pastatomas     |  neturi šaldiklio    |      190 |     40 |    50 |       |            |       |
+|  Siemens        |  FridgeL        |  A+           |  Rausva    |  2000 |    80 |  Pastatomas     |  turi šaldiklį       |      210 |     70 |    50 |       |            |       |
+|  Fridge199      |  Fridge24c      |  A+           |  Juoda     |   499 |    70 |  Pastatomas     |  turi šaldiklį       |      170 |     40 |    50 |       |            |       |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Brangių įrenginių sąrašas:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Gamintojas      | Modelis         | Energijos kl. | Spalva     | Kaina | Talpa | Montavimo tipas | Šaldiklis            | Aukštis  | Plotis | Gylis | Galia | Programos  | Tūris |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  Siemens        |  Fridge7W       |  A++          |  Balta     |  1099 |   480 |  Pastatomas     |  neturi šaldiklio    |      190 |     40 |    50 |       |            |       |
+|  Siemens        |  FridgeA        |  A++          |  Balta     |  1099 |   480 |  Pastatomas     |  neturi šaldiklio    |      190 |     40 |    50 |       |            |       |
+|  Siemens        |  FridgeG        |  A++          |  Balta     |  1199 |   380 |  Pastatomas     |  neturi šaldiklio    |      200 |     40 |    50 |       |            |       |
+|  Siemens        |  FridgeL        |  A+           |  Rausva    |  2000 |    80 |  Pastatomas     |  turi šaldiklį       |      210 |     70 |    50 |       |            |       |
+|  Siemens        |  KettleP        |  A            |  Juoda     |   399 |       |                 |                      |          |        |       |   100 |            |     7 |
+|  Kettle10       |  KettleZ        |  A            |  Balta     |    70 |       |                 |                      |          |        |       |   250 |            |     3 |
+|  Oven1          |  OvenE          |  A            |  Juoda     |   599 |       |                 |                      |          |        |       |   200 |         14 |       |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+

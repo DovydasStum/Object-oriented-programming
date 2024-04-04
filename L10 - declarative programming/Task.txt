@@ -1,0 +1,7 @@
+Žmonės užsisako spaudą. Užsakymas vyksta metų ribose. Pirmoje failo eilutėje
+nurodyta įvedimo data (failų daug), o tolesnėse eilutėse nurodyta prenumeratoriaus pavardė, adresas,
+laikotarpio pradžia (nurodyta sveiku skaičiumi 1..12), laikotarpio ilgis, leidinio kodas, leidinių kiekis.
+Atskirame faile duota tokia informacija apie leidinius: kodas, pavadinimas, leidėjo pavadinimas, vieno
+mėnesio kaina. Suskaičiuoti kiekvienam leidėjui nurodyto mėnesio (įvedama klaviatūra) pajamas.
+Atspausdinkite leidėjų pajamas, surikiuotas pagal dydį ir leidėjų pavadinimus, nurodant ir leidėjų
+leidinius su jų atneštomis pajamomis. Leidėjų pavadinimai neturi kartotis.

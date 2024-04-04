@@ -1,0 +1,21 @@
+D:\Studijos\Objektinis programavimas\L4 – galutinis\L4\L4_Individuali\L4_Individuali\bin\Debug\L4_Individuali.exe.config
+D:\Studijos\Objektinis programavimas\L4 – galutinis\L4\L4_Individuali\L4_Individuali\bin\Debug\L4_Individuali.exe
+D:\Studijos\Objektinis programavimas\L4 – galutinis\L4\L4_Individuali\L4_Individuali\bin\Debug\L4_Individuali.pdb
+D:\Studijos\Objektinis programavimas\L4 – galutinis\L4\L4_Individuali\L4_Individuali\obj\Debug\L4_Individuali.csprojAssemblyReference.cache
+D:\Studijos\Objektinis programavimas\L4 – galutinis\L4\L4_Individuali\L4_Individuali\obj\Debug\L4_Individuali.csproj.CoreCompileInputs.cache
+D:\Studijos\Objektinis programavimas\L4 – galutinis\L4\L4_Individuali\L4_Individuali\obj\Debug\L4_Individuali.exe
+D:\Studijos\Objektinis programavimas\L4 – galutinis\L4\L4_Individuali\L4_Individuali\obj\Debug\L4_Individuali.pdb
+E:\Objektinis programavimas\L4 – galutinis\L4\L4_Individuali\L4_Individuali\bin\Debug\L4_Individuali.exe.config
+E:\Objektinis programavimas\L4 – galutinis\L4\L4_Individuali\L4_Individuali\bin\Debug\L4_Individuali.exe
+E:\Objektinis programavimas\L4 – galutinis\L4\L4_Individuali\L4_Individuali\bin\Debug\L4_Individuali.pdb
+E:\Objektinis programavimas\L4 – galutinis\L4\L4_Individuali\L4_Individuali\obj\Debug\L4_Individuali.csprojAssemblyReference.cache
+E:\Objektinis programavimas\L4 – galutinis\L4\L4_Individuali\L4_Individuali\obj\Debug\L4_Individuali.csproj.CoreCompileInputs.cache
+E:\Objektinis programavimas\L4 – galutinis\L4\L4_Individuali\L4_Individuali\obj\Debug\L4_Individuali.exe
+E:\Objektinis programavimas\L4 – galutinis\L4\L4_Individuali\L4_Individuali\obj\Debug\L4_Individuali.pdb
+C:\Users\dovstu1\Desktop\24\L4 – galutinis\L4\L4_Individuali\L4_Individuali\bin\Debug\L4_Individuali.exe.config
+C:\Users\dovstu1\Desktop\24\L4 – galutinis\L4\L4_Individuali\L4_Individuali\bin\Debug\L4_Individuali.exe
+C:\Users\dovstu1\Desktop\24\L4 – galutinis\L4\L4_Individuali\L4_Individuali\bin\Debug\L4_Individuali.pdb
+C:\Users\dovstu1\Desktop\24\L4 – galutinis\L4\L4_Individuali\L4_Individuali\obj\Debug\L4_Individuali.csprojAssemblyReference.cache
+C:\Users\dovstu1\Desktop\24\L4 – galutinis\L4\L4_Individuali\L4_Individuali\obj\Debug\L4_Individuali.csproj.CoreCompileInputs.cache
+C:\Users\dovstu1\Desktop\24\L4 – galutinis\L4\L4_Individuali\L4_Individuali\obj\Debug\L4_Individuali.exe
+C:\Users\dovstu1\Desktop\24\L4 – galutinis\L4\L4_Individuali\L4_Individuali\obj\Debug\L4_Individuali.pdb

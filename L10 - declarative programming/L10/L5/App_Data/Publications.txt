@@ -1,0 +1,5 @@
+B100;Žurnalas1;Leidėjas1;1,99;
+B200;Laikraštis1;Leidėjas1;0,59;
+B300;Žurnalas2;Leidėjas2;1,09;
+B400;Laikraštis2;Leidėjas2;2,99;
+B500;Knyga1;Leidėjas1;4,50;

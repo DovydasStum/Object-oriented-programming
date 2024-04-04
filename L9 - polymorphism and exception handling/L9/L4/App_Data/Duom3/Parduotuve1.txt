@@ -1,0 +1,6 @@
+Parduotuvė1
+Naujoji g. 101
++37064578598
+Fridge; Fridge1; FridgeX; A+; Balta; 699; 500; Pastatomas; turi šaldiklį; 200; 50; talpa;
+Oven; Oven1; OvenE; A; Juoda; 599; 200; 14;
+Kettle; Siemens; KettleP; A; Juoda; 399; 100; 7;

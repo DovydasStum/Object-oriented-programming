@@ -1,0 +1,16 @@
+Turite informaciją apie skirtingose buitinės technikos parduotuvėse
+esančius šaldytuvus, mikrobangų krosneles ir elektrinius virdulius. Pirmoje eilutėje yra pavadinimas, antroje
+– adresas, trečioje – telefonas. Sukurkite abstrakčią klasę „Device“ (savybės - gamintojas, modelis, energijos
+klasė, spalva, kaina), kurią paveldės “Fridge” (savybės - talpa, montavimo tipas, požymis „turi šaldiklį“,
+aukštis, plotis, gylis), “Oven” (savybės – galingumas, programų skaičius) ir “Kettle” (savybės – galia, tūris).
+• Suskaičiuokite, kiek skirtingų „Siemens“ šaldytuvų, mikrobangų krosnelių ir virdulių modelių siūlo
+kiekviena parduotuvė, rezultatą atspausdinkite ekrane.
+• Sudarykite dešimties pigiausių pastatomų šaldytuvų, kurių talpa 80 litrų ar didesnė, sąrašą. Ekrane
+atspausdinkite šaldytuvo gamintoją, modelį, talpą ir kainą.
+• Ar yra tokių buitinių prietaisų, kuriuos galima įsigyti tik vienoje parduotuvėje? Atspausdinkite
+tokių prietaisų sąrašą faile „TikTen.csv“.
+• Sudarykite ir surikiuokite brangių buitinių prietaisų sąrašą, pateikdami pilną informaciją apie juos.
+Šaldytuvas yra brangus, jei jo kaina viršija 1000€. Mikrobangų krosnelė yra brangi, jei jos kaina
+viršija 500€. Virdulys yra brangus, jei jo kaina viršija 50€. Šaldytuvus rikiuokite pagal aukštį,
+mikrobangų krosneles – pagal galingumą, o virdulius – pagal galią. Rezultatus įrašykite į failą
+„Brangus.csv“.

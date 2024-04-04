@@ -1,0 +1,35 @@
+D:\Studijos\Objektinis programavimas\L2\I2\I2\bin\Debug\I2.exe.config
+D:\Studijos\Objektinis programavimas\L2\I2\I2\bin\Debug\I2.exe
+D:\Studijos\Objektinis programavimas\L2\I2\I2\bin\Debug\I2.pdb
+D:\Studijos\Objektinis programavimas\L2\I2\I2\obj\Debug\I2.csprojAssemblyReference.cache
+D:\Studijos\Objektinis programavimas\L2\I2\I2\obj\Debug\I2.csproj.CoreCompileInputs.cache
+D:\Studijos\Objektinis programavimas\L2\I2\I2\obj\Debug\I2.exe
+D:\Studijos\Objektinis programavimas\L2\I2\I2\obj\Debug\I2.pdb
+E:\L2\I2\I2\bin\Debug\I2.exe.config
+E:\L2\I2\I2\bin\Debug\I2.exe
+E:\L2\I2\I2\bin\Debug\I2.pdb
+E:\L2\I2\I2\obj\Debug\I2.csprojAssemblyReference.cache
+E:\L2\I2\I2\obj\Debug\I2.csproj.CoreCompileInputs.cache
+E:\L2\I2\I2\obj\Debug\I2.exe
+E:\L2\I2\I2\obj\Debug\I2.pdb
+C:\Users\dovstu1\Desktop\10-13\L2\I2\I2\bin\Debug\I2.exe.config
+C:\Users\dovstu1\Desktop\10-13\L2\I2\I2\bin\Debug\I2.exe
+C:\Users\dovstu1\Desktop\10-13\L2\I2\I2\bin\Debug\I2.pdb
+C:\Users\dovstu1\Desktop\10-13\L2\I2\I2\obj\Debug\I2.csprojAssemblyReference.cache
+C:\Users\dovstu1\Desktop\10-13\L2\I2\I2\obj\Debug\I2.csproj.CoreCompileInputs.cache
+C:\Users\dovstu1\Desktop\10-13\L2\I2\I2\obj\Debug\I2.exe
+C:\Users\dovstu1\Desktop\10-13\L2\I2\I2\obj\Debug\I2.pdb
+E:\Objektinis programavimas\L2\I2\I2\bin\Debug\I2.exe.config
+E:\Objektinis programavimas\L2\I2\I2\bin\Debug\I2.exe
+E:\Objektinis programavimas\L2\I2\I2\bin\Debug\I2.pdb
+E:\Objektinis programavimas\L2\I2\I2\obj\Debug\I2.csprojAssemblyReference.cache
+E:\Objektinis programavimas\L2\I2\I2\obj\Debug\I2.csproj.CoreCompileInputs.cache
+E:\Objektinis programavimas\L2\I2\I2\obj\Debug\I2.exe
+E:\Objektinis programavimas\L2\I2\I2\obj\Debug\I2.pdb
+C:\Users\dovstu1\Desktop\10-18\L2\I2\I2\bin\Debug\I2.exe.config
+C:\Users\dovstu1\Desktop\10-18\L2\I2\I2\bin\Debug\I2.exe
+C:\Users\dovstu1\Desktop\10-18\L2\I2\I2\bin\Debug\I2.pdb
+C:\Users\dovstu1\Desktop\10-18\L2\I2\I2\obj\Debug\I2.csprojAssemblyReference.cache
+C:\Users\dovstu1\Desktop\10-18\L2\I2\I2\obj\Debug\I2.csproj.CoreCompileInputs.cache
+C:\Users\dovstu1\Desktop\10-18\L2\I2\I2\obj\Debug\I2.exe
+C:\Users\dovstu1\Desktop\10-18\L2\I2\I2\obj\Debug\I2.pdb

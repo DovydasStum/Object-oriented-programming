@@ -1,0 +1,12 @@
+Turite trijų pastarųjų metų studentų atstovybės narių duomenis. Pirmoje
+eilutėje nurodyti metai. Studentų atstovybės nariai yra tiek šiuo metu studijuojantys, tiek jau pabaigę
+studijas. Sukurkite klasę „Member“ (savybės – pavardė, vardas, gimimo data, telefono numeris), kurią
+paveldės klasės „Student” (savybės – studento pažymėjimo numeris, kursas) ir „Graduate” (savybė –
+darbovietė).
+• Raskite vyriausią studentų atstovybės narį, priklausiusį studentų atstovybei, ekrane
+atspausdinkite jo vardą, pavardę ir amžių.
+• Sudarykite „senių“, dirbusių bent 2 metus iš eilės, sąrašą ir atspausdinkite jį ekrane.
+• Sudarykite „senių“, dirbančių firmoje „ATEA“ sąrašą. Surikiuokite juos pagal pavardę ir vardą.
+Įrašykite į failą „Atea.csv“.
+• Sudarykite studentų, kurie priklausė atstovybei, sąrašą. Visus jų duomenis įrašykite į failą
+„Buvo.csv“.

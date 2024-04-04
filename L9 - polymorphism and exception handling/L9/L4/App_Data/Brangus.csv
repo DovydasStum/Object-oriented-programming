@@ -1,0 +1,8 @@
+﻿Gamintojas;Modelis;Energijos kl.;Spalva;Kaina;Talpa;Montavimo tipas;Šaldiklis;Aukštis;Plotis;Gylis;Galia;Programos;Tūris
+ Siemens; Fridge7W; A++; Balta;1099;480; Pastatomas; neturi šaldiklio;190;40;50
+ Siemens; FridgeA; A++; Balta;1099;480; Pastatomas; neturi šaldiklio;190;40;50
+ Siemens; FridgeG; A++; Balta;1199;380; Pastatomas; neturi šaldiklio;200;40;50
+ Siemens; FridgeL; A+; Rausva;2000;80; Pastatomas; turi šaldiklį;210;70;50
+ Siemens; KettleP; A; Juoda;399;;;;;;;100;;7
+ Kettle10; KettleZ; A; Balta;70;;;;;;;250;;3
+ Oven1; OvenE; A; Juoda;599;;;;;;;200;14;

@@ -1,0 +1,21 @@
+D:\Studijos\Objektinis programavimas\Lab3 - galutinis\L3_I\Lab_I3\Lab_I3\bin\Debug\Lab_I3.exe.config
+D:\Studijos\Objektinis programavimas\Lab3 - galutinis\L3_I\Lab_I3\Lab_I3\bin\Debug\Lab_I3.exe
+D:\Studijos\Objektinis programavimas\Lab3 - galutinis\L3_I\Lab_I3\Lab_I3\bin\Debug\Lab_I3.pdb
+D:\Studijos\Objektinis programavimas\Lab3 - galutinis\L3_I\Lab_I3\Lab_I3\obj\Debug\Lab_I3.csprojAssemblyReference.cache
+D:\Studijos\Objektinis programavimas\Lab3 - galutinis\L3_I\Lab_I3\Lab_I3\obj\Debug\Lab_I3.csproj.CoreCompileInputs.cache
+D:\Studijos\Objektinis programavimas\Lab3 - galutinis\L3_I\Lab_I3\Lab_I3\obj\Debug\Lab_I3.exe
+D:\Studijos\Objektinis programavimas\Lab3 - galutinis\L3_I\Lab_I3\Lab_I3\obj\Debug\Lab_I3.pdb
+E:\Objektinis programavimas\Lab3 - galutinis\L3_I\Lab_I3\Lab_I3\bin\Debug\Lab_I3.exe.config
+E:\Objektinis programavimas\Lab3 - galutinis\L3_I\Lab_I3\Lab_I3\bin\Debug\Lab_I3.exe
+E:\Objektinis programavimas\Lab3 - galutinis\L3_I\Lab_I3\Lab_I3\bin\Debug\Lab_I3.pdb
+E:\Objektinis programavimas\Lab3 - galutinis\L3_I\Lab_I3\Lab_I3\obj\Debug\Lab_I3.csprojAssemblyReference.cache
+E:\Objektinis programavimas\Lab3 - galutinis\L3_I\Lab_I3\Lab_I3\obj\Debug\Lab_I3.csproj.CoreCompileInputs.cache
+E:\Objektinis programavimas\Lab3 - galutinis\L3_I\Lab_I3\Lab_I3\obj\Debug\Lab_I3.exe
+E:\Objektinis programavimas\Lab3 - galutinis\L3_I\Lab_I3\Lab_I3\obj\Debug\Lab_I3.pdb
+C:\Users\dovstu1\Desktop\11-15\Lab3 - galutinis\L3_I\Lab_I3\Lab_I3\bin\Debug\Lab_I3.exe.config
+C:\Users\dovstu1\Desktop\11-15\Lab3 - galutinis\L3_I\Lab_I3\Lab_I3\bin\Debug\Lab_I3.exe
+C:\Users\dovstu1\Desktop\11-15\Lab3 - galutinis\L3_I\Lab_I3\Lab_I3\bin\Debug\Lab_I3.pdb
+C:\Users\dovstu1\Desktop\11-15\Lab3 - galutinis\L3_I\Lab_I3\Lab_I3\obj\Debug\Lab_I3.csprojAssemblyReference.cache
+C:\Users\dovstu1\Desktop\11-15\Lab3 - galutinis\L3_I\Lab_I3\Lab_I3\obj\Debug\Lab_I3.csproj.CoreCompileInputs.cache
+C:\Users\dovstu1\Desktop\11-15\Lab3 - galutinis\L3_I\Lab_I3\Lab_I3\obj\Debug\Lab_I3.exe
+C:\Users\dovstu1\Desktop\11-15\Lab3 - galutinis\L3_I\Lab_I3\Lab_I3\obj\Debug\Lab_I3.pdb

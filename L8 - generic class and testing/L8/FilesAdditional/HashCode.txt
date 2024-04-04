@@ -1,0 +1,19 @@
+ public override int GetHashCode()
+        {
+            int hashCode = -818965575;
+            hashCode = hashCode * -1521134295 +
+           EqualityComparer<string>.Default.GetHashCode(TeamName);
+            hashCode = hashCode * -1521134295 +
+           EqualityComparer<string>.Default.GetHashCode(FirstName);
+            hashCode = hashCode * -1521134295 +
+           EqualityComparer<string>.Default.GetHashCode(LastName);
+            hashCode = hashCode * -1521134295 +
+           EqualityComparer<DateTime>.Default.GetHashCode(BirthDate);
+            hashCode = hashCode * -1521134295 +
+           EqualityComparer<double>.Default.GetHashCode(Height);
+            hashCode = hashCode * -1521134295 +
+           EqualityComparer<string>.Default.GetHashCode(Position);
+            hashCode = hashCode * -1521134295 + ScoreCount.GetHashCode();
+            hashCode = hashCode * -1521134295 + FaultCount.GetHashCode();
+            return hashCode;
+        }

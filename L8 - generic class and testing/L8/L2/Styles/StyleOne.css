@@ -1,0 +1,29 @@
+﻿body {
+    background-color: ivory;
+}
+
+.background {
+    background-color: antiquewhite;
+}
+
+.text {
+    font-family: Calibri, Arial;
+    color: black;
+}
+
+.button {
+    border-style: outset;
+    border-color: blueviolet;
+    background-color: aquamarine;
+    color: darkblue;
+    font-style: italic;
+    font-size: 15px;
+}
+
+.table {
+    border-style: solid;
+    border-color: darkblue;
+    background-color: aliceblue;
+    font-family: Calibri, Arial;
+    color: black;
+}

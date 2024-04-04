@@ -1,0 +1,4 @@
+01 Detale1 1
+02 Detale2 1,25
+03 Detale3 2,5
+04 Detale4 0,5
